@@ -1,0 +1,2 @@
+# NEXORIA-COINS-LICENSE1
+Official license for NEXORIA COINS.
